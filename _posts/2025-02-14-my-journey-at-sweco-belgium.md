@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Journey at Sweco Belgium"
-date: 2025-02-14
+date: 2025-02-14 01:03:11 +0700
 categories: [career, engineering, sustainability]
 author: "Chỉnh Triệu Tiến"
 tags: [Sweco, Engineering, Sustainability, Building Performance, Programming]
