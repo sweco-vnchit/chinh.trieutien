@@ -1,10 +1,10 @@
 ---
+layout: post
 title: "Silent Battles"
 date: 2025-03-20
 tags: [hidden, personal, thoughts]
 hidden: true
 permalink: /silent/
-published: true
 ---
 
 Những vòng lặp vô tận, thật mệt mỏi.
